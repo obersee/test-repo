@@ -8,4 +8,4 @@ FES GitHub 실습용 Repository
 4. GitHub Issues 제대로 사용하기
 
 ## 체크리스트
-- [ ] 테스트 저장소 생성
+- [x] 테스트 저장소 생성
